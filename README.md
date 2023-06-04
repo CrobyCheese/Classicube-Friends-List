@@ -7,4 +7,5 @@ or maybe some day even be able to go on classicube.net/ and click friends list a
 play.
 # Why no css?
 I'm really bad with css, you can do it you're self.
+(Edit): I learned css in 2 hours.
 # GO PLAY CLASSICUBE NOW

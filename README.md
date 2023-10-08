@@ -1,3 +1,8 @@
+# IMPORTANT
+This version of the friends list is not recemended. 
+Please use the ingame button (idk if its a mod or 
+not yet.), If you want to use this still I won't
+stop you though.
 # Classicube-Friends-List
 Very early verson of a classicube friends list
 # Why make this? 
